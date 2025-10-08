@@ -1,4 +1,4 @@
-Ano_mes;Precipitação_Total_mm;Temperatura_Méda_C;Umidade_Relativa_Média_per;Rajada_de_Vento_Média_ms
+Ano_mes;PrecipitaÃ§Ã£o_Total_mm;Temperatura_MÃ©da_C;Umidade_Relativa_MÃ©dia_per;Rajada_de_Vento_MÃ©dia_ms
 jan/08;82.6;26.91;77.71;6.64
 fev/08;243.6;26.58;81.16;6.24
 mar/08;314.4;26.27;84.52;5.41
@@ -179,3 +179,4 @@ set/22;2.4;26.43;77.1;7.94
 out/22;0;27.39;74.49;8.41
 nov/22;0.2;27.76;74.8;8.16
 dez/22;3.2;26.7;79.25;6.19
+
